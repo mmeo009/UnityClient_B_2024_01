@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4bf5ff85bafb73d4086fbaf2d0c1bef0, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  sheets:
+  - name: Monster
+    list:
+    - index: 1
+      hp: 10
+      mp: 5
+      name: monster1
+    - index: 2
+      hp: 10
+      mp: 5
+      name: monster2
+    - index: 3
+      hp: 10
+      mp: 5
+      name: monster3
+    - index: 4
+      hp: 10
+      mp: 5
+      name: monster4
+    - index: 5
+      hp: 10
+      mp: 5
+      name: monster5
+    - index: 6
+      hp: 10
+      mp: 5
+      name: monster6
+    - index: 7
+      hp: 10
+      mp: 5
+      name: monster7
+    - index: 8
+      hp: 10
+      mp: 5
+      name: monster8
+    - index: 9
+      hp: 10
+      mp: 5
+      name: monster9
+    - index: 10
+      hp: 10
+      mp: 5
+      name: monster10
